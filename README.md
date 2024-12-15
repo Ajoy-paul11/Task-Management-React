@@ -37,9 +37,9 @@ A simple task management application built with React, TypeScript, and Ant Desig
 
 - React : Frontend Library to build components.
 - TypeScript : Implemented TypeScript for better type safety.
-- Ant Design : Used Ant Design for consistent UI components.
 - Axios : Used Axios for API requests.
 - Vite : A React build tool.
+- Ant Design : Used Ant Design for consistent UI components. Implemented form validation using Ant Design Form. Used notification system for user feedback.
 
 ## Contact
 
